@@ -106,7 +106,7 @@ taille. Il est donc pratique d'utiliser directement \LaTeX.
 ----
 
 \center\includegraphics[scale=0.5]{fonction_0.png}
-![une image](images/fonction_0.png)
+![une image](fonction_0.png)
 
 ## Des maths
 
